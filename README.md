@@ -1,3 +1,6 @@
+# Data Structures and Algorithms
+## I WILL become a Master.
+### (one day)
 Arrays and Strings:
 
 [x]   Two Sum (LeetCode #1)
