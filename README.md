@@ -1,18 +1,17 @@
 # Data Structures and Algorithms Self Study
 
-I will become a Master. One day.
+> I will become a Master. One day. - C.S.
 
-## Legend:
+## Log of Attempts:
 
-| Symbol | Definition |
-| ------ | ---------- |
-|   x    | Solved     |
-|   o    | Attempted  |
+|  Date   |  Problem   |  Progress  |      Comments      |
+| ------- | ---------- | ---------- | ------------------ |
+| 24-3-22 | LCP#11     | Attempted  | I'm so bad at this |
 
 ### Arrays and Strings:
 
 - [x]   Two Sum (LeetCode #1)
-- [o]   Container With Most Water (LeetCode #11)
+- [ ]   Container With Most Water (LeetCode #11)
 - [x]   Longest Substring Without Repeating Characters (LeetCode #3)
 - [ ]   Valid Parentheses (LeetCode #20)
 - [ ]   Rotate Array (LeetCode #189)
