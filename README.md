@@ -1,5 +1,5 @@
 # Data Structures and Algorithms Self Study
-## I will become a Master. One day.
+- I will become a Master. One day.
 
 ## Legend:
 | Symbol | Definition |
