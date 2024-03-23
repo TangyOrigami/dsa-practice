@@ -1,6 +1,12 @@
-# Data Structures and Algorithms
-## I WILL become a Master.
-### (one day)
+# Data Structures and Algorithms Self Study
+## I will become a Master. One day.
+
+## Legend:
+| Symbol | Definition |
+| ------ | ---------- |
+|   x    | Solved     |
+|   o    | Attempted  |
+
 Arrays and Strings:
 
 [x]   Two Sum (LeetCode #1)
