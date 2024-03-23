@@ -2,11 +2,11 @@
 
 > I will become a Master. One day. - C.S.
 
-## Log of Attempts:
+## Log:
 
-|  Date   |  Problem   |  Progress  |      Comments      |
-| ------- | ---------- | ---------- | ------------------ |
-| 24-3-22 | LCP#11     | Attempted  | I'm so bad at this |
+|   Date    |  Problem   |  Progress  |      Comments      |
+| --------- | ---------- | ---------- | ------------------ |
+| 2024-3-22 | LCP#11     | Attempted  | I'm so bad at this |
 
 ### Arrays and Strings:
 
