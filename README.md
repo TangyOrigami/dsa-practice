@@ -7,7 +7,7 @@
 |   x    | Solved     |
 |   o    | Attempted  |
 
-Arrays and Strings:
+### Arrays and Strings:
 
 [x]   Two Sum (LeetCode #1)
 [o]   Container With Most Water (LeetCode #11)
@@ -16,7 +16,7 @@ Arrays and Strings:
 [ ]   Rotate Array (LeetCode #189)
 [ ]   String to Integer (LeetCode #8)
 
-Linked Lists:
+### Linked Lists:
 
 [ ]   Reverse Linked List (LeetCode #206)
 [ ]   Merge Two Sorted Lists (LeetCode #21)
@@ -24,7 +24,7 @@ Linked Lists:
 [ ]   Linked List Cycle (LeetCode #141)
 [ ]   Intersection of Two Linked Lists (LeetCode #160)
 
-Stacks and Queues:
+### Stacks and Queues:
 
 [ ]   Valid Parentheses (LeetCode #20)
 [ ]   Implement Stack using Queues (LeetCode #225)
@@ -32,7 +32,7 @@ Stacks and Queues:
 [ ]   Evaluate Reverse Polish Notation (LeetCode #150)
 [ ]   Design a Stack With Increment Operation (LeetCode #1381)
 
-Trees:
+### Trees:
 
 [ ]   Maximum Depth of Binary Tree (LeetCode #104)
 [ ]   Validate Binary Search Tree (LeetCode #98)
@@ -40,7 +40,7 @@ Trees:
 [ ]   Path Sum (LeetCode #112)
 [ ]   Lowest Common Ancestor of a Binary Tree (LeetCode #236)
 
-Sorting and Searching:
+### Sorting and Searching:
 
 [ ]   Merge Sort
 [ ]   Quick Sort
@@ -48,7 +48,7 @@ Sorting and Searching:
 [ ]   Find First and Last Position of Element in Sorted Array (LeetCode #34)
 [ ]   Search in Rotated Sorted Array (LeetCode #33)
 
-Dynamic Programming:
+### Dynamic Programming:
 
 [ ]   Fibonacci Number (LeetCode #509)
 [ ]   Climbing Stairs (LeetCode #70)
@@ -56,7 +56,7 @@ Dynamic Programming:
 [ ]   Coin Change (LeetCode #322)
 [ ]   0/1 Knapsack Problem
 
-Graphs:
+### Graphs:
 
 [ ]   Breadth-First Search (BFS)
 [ ]   Depth-First Search (DFS)
@@ -64,7 +64,7 @@ Graphs:
 [ ]   Minimum Spanning Tree (Prim's Algorithm or Kruskal's Algorithm)
 [ ]   Topological Sorting
 
-Miscellaneous:
+### Miscellaneous:
 
 [ ]   Implement a Trie (Prefix Tree)
 [ ]   Implement a LRU Cache
