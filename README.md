@@ -7,6 +7,7 @@
 |   Date    |  Problem   |  Progress  |      Comments      |
 | --------- | ---------- | ---------- | ------------------ |
 | 2024-3-22 | LCP#11     | Attempted  | I'm so bad at this |
+| 2024-3-24 | LCP#11     | Attempted  | I'm horrible       |
 
 ### Arrays and Strings:
 
